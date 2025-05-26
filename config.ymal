@@ -5,17 +5,17 @@ personalInfo:
   loadFromEnv: false
 
   # if loadFromEnv is true, anything in personalInfo beside typeId is ignored
-  firstName: 'Kaiyu'
-  lastName: 'He'
+  firstName: 'xxxx'
+  lastName: 'xx'
   # Date of birth (MM/DD/YYYY)
-  dob: '04/10/1998'
+  dob: 'xx/xx/xxxx'
   # Use real email to get appointment infomation
-  email: 'kaiyu.he@utdallas.edu'
+  email: 'xxxxxxx'
   # Not really needed but good to have a real one
-  lastFourSSN: '5783'
+  lastFourSSN: 'xxxxxxx'
   # If you want to recieve notificaion through phone, if not keep blank
   # WARNING: Use number only (Ex: 111111111)
-  phoneNumber: '9172382465'
+  phoneNumber: 'xxxxx'
 
   # Serivce you needed at DPS. Check the full list on https://github.com/phamleduy04/texas-dps-scheduler/wiki/TypeId-list
   # If you need to apply for Texas DL you don't need to change it
